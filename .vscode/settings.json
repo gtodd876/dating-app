@@ -1,11 +1,15 @@
 {
   "cSpell.words": [
+    "Cloudinary",
     "DTOs",
+    "Dropzone",
     "HMACSHA",
     "datepicker",
     "datingapp",
     "hmac",
+    "tabset",
     "titlecase",
     "toastr"
-  ]
+],
+  "FSharp.suggestSdkScripts": false
 }
